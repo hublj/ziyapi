@@ -1,0 +1,49 @@
+//此影视仓接口列表为微信公众号【时光软件汇】整理而成，如有所属接口的大佬，请联系删除。
+{
+    "urls": [
+        {
+            "url": "https://api.wemtime.com/TVBOX/b.json",
+            "name": "🐰请点击下方选择大佬线路"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "🌀南风线路"
+        },
+        {
+            "url": "http://肥猫.love",
+            "name": "😺肥猫线路"
+        },     
+        {
+            "url": "https://hutool.ml/tang",
+            "name": "☘唐三线路"
+        },  
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "🌸菜妮丝线路"
+        },
+        {
+            "url": "http://饭太硬.ga/x/o.json",
+            "name": "🤪饭太硬线路"
+        },
+        {
+            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "name": "🍎小苹果线路"
+        },
+        {
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "💛老刘备线路"
+        },
+        {
+            "url": "http://101.34.67.237/config/3",
+            "name": "🚀小雅线路"
+        }, 
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "🚀俊佬线路"
+        },
+        {
+            "url": "https://app.easybox.vip/dy",
+            "name": "🚀easybox线路"
+        }
+    ]
+}
