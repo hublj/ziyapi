@@ -1,0 +1,20 @@
+{
+    "urls": [
+           {
+            "url":"http://111.67.196.181/",
+            "name": "🐰请点击下方选择线路"
+        },
+          {
+            "url":"https://raw.fastgit.org/yutian88881/tvbox/main/duomv/fuli",
+            "name": "18"
+        },
+          {
+            "url":"https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "name": "小苹果🍎🍎"
+        },
+          {
+            "url":"http://52bsj.vip:81/api/v3/file/get/85481/ziyong.json?sign=LUXCCJZz1awsA9jmHm3me4Qf5l2_XwIJRUqibqOkZro%3D%3A0",
+            "name": "自用"
+        }
+      ]  
+}
