@@ -5,8 +5,8 @@
             "name": "🐰请点击下方选择线路"
         },
           {
-            "url":"https://raw.fastgit.org/yutian88881/tvbox/main/duomv/fuli",
-            "name": "18"
+            "url":"https://yydsys.top/duo/v.json",
+            "name": "yyds"
         },
           {
             "url":"https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
